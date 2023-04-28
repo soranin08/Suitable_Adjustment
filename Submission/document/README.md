@@ -1,0 +1,25 @@
+# 提出書類
+<table>
+  <thread>
+    <tr>
+      <th>提出内容</th>
+      <th>形式</th>
+    </tr>
+  </thread>
+  <tr>
+    <td>企画書</td>
+    <td>PDF</td>
+  </tr>
+  <tr>
+    <td>プレゼン資料</td>
+    <td>自由</td>
+  </tr>
+  <tr>
+    <td>作品データ</td>
+    <td>自由</td>
+  </tr>
+  <tr>
+    <td>開発経歴書</td>
+    <td>Excel</td>
+  </tr>
+</table>
