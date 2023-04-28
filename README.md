@@ -10,7 +10,7 @@ Suitable_Adjustment
             |
             |-- document
             |       |
-            |       | -- 企画書.pdf                
+            |       | -- 企画書.pdf
             |
             |-- presen
             |      |
